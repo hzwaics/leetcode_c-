@@ -6,3 +6,5 @@ Algorithm training
 git add README.md
 git commit -m "add README"
 git push -u origin master
+
+可以用python去验证一些算法的问题，这个很方便
